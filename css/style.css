@@ -159,6 +159,7 @@ li{
         justify-content: last baseline;
         background-color: white;    
         transition-duration: 0.5s;
+        text-align: center;
     }
     .navlisth{
         background-color: white;
@@ -171,8 +172,11 @@ li{
     
     }
     .navlisth a{
-        padding: 20px 50px;
+        padding: 20px 0px;
 
+    }
+    .navbar .icon{
+        padding: 20px 50px;
     }
     .h-nav{
         /* height: 0%; */
